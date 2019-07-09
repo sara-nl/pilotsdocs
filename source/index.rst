@@ -26,15 +26,16 @@
 Pilots User Guide
 *****************
 
-Welcome to the Pilots user guide!
+Welcome to the Pilots user guide! In this documentation we will show you how to
+run pilot jobs and track the status of hundreds jobs running at a time.
+
 
 Table of contents:
 
 .. toctree::
-   :maxdepth: 1
-   :numbered:
+   :maxdepth: 3
 
-   .. Pages/about
+   Pages/pilot_jobs
    .. Pages/getting_help
 
 

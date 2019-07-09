@@ -36,7 +36,7 @@ Table of contents:
    :maxdepth: 3
 
    Pages/pilot_jobs
-   .. Pages/getting_help
+   Pages/getting_help
 
 
 
